@@ -10,6 +10,13 @@ business application a corporate engineering team ships.
 > the data model, deploy it — before you put it on a resume. An interviewer will
 > ask you to defend your architecture; you can only do that if it's genuinely yours.
 
+## Preview
+
+![Scenario FP&A dashboard preview](docs/preview.png)
+
+*Representative UI preview generated from the app's real layout and the actual numbers produced by its seed data / load test. To capture live screenshots, run the app (see Quickstart) and replace `docs/preview.png`.*
+
+
 ---
 
 ## Features
